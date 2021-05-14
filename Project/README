@@ -1,0 +1,15 @@
+README 
+
+To run this code several dependicies must be included.
+
+1.Python 3 is installed
+2.Imported libraries are installed
+	-sklearn
+	-matplotlib
+	-seaborn
+	-pandas
+	
+4.Maintain "Social_Network_Ads.csv" in same file as "LogisticRegression.py"
+3.Change the the file path on line 15 to the file path of your "Social_Network_Ads.csv"
+	-locate properties of "Social_Network_Ads.csv"
+	-copy paste the file path into the "pd.read_csv("INSERT HERE")"

@@ -1,0 +1,21 @@
+Question 1: The algorithm ends when the outer most for loop reaches the 
+		center of the array and swaps those elements to the correct
+		position.
+
+Queestion 2: I think the time complexity is the same as selection sort because
+		it does as many swaps and comparisons as it. They both go through
+		the array but double ended sorts the second half of the array at 
+		the same time as the first because it dins the max and min. I think
+		this could be better than selction sort even though it has the same time
+		complexity. In certain situations that one or both end(s) of the array is mostly 			sorted the algorithm will perform faster because it will do less 
+		swaps and comparisons.
+
+
+
+
+
+
+
+
+
+
